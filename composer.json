@@ -12,8 +12,8 @@
     "require": {
         "php": ">=5.5.9",
         "illuminate/support": "~5",
-        "nesbot/carbon": "~1",
-        "guzzlehttp/guzzle": "~5",
+        "nesbot/carbon": "~2",
+        "guzzlehttp/guzzle": "~6",
         "league/flysystem": "^1.0"
     },
     "autoload": {
