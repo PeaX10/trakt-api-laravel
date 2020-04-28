@@ -1,9 +1,9 @@
-# Trakt API for Laravel 5
+# Trakt API for Laravel 7
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE)
 [![Total Downloads][ico-downloads]][link-downloads]
 
-This is a library to use the [Trakt API](http://docs.trakt.apiary.io/) in Laravel 5
+This is a library to use the [Trakt API](http://docs.trakt.apiary.io/) in Laravel 7
 
 ## Setup
 To install this library you need to use composer, you can get it from [here](https://getcomposer.org/download/).
